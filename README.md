@@ -6,7 +6,12 @@ In this lecture, we explored how to set up your coding environment using VS Code
 ## 🎥 Lecture Recording
 
 You can rewatch the full session here:
-🔗 [Watch the recording]()
+🔗 [Watch the recording](https://drive.google.com/file/d/1uHNkAmP1hn1Xhwky9uwhgUMFRyLcpO2R/view?usp=sharing)
+
+## Lecture Slides:
+
+The slides used in the lecture:
+
 
 ## 📚 Self-Learning Resources
 
@@ -21,11 +26,13 @@ These resources will help you understand the why behind the steps we practiced d
 
 Your task is simple — show that you can use VS Code and GitHub confidently!
 
+Create a new GitHub account or use your own if you have one.
+
 Create a new repository on your GitHub account.
 
 Inside it, add a text file named introduction.txt.
 
-In that file, write a short introduction about yourself (name, major, and why you’re learning programming).
+In that file, write a brief introduction about yourself.
 
 Commit your changes and push them to your repository.
 
@@ -34,7 +41,8 @@ Make sure your repo is public so we can view it.
 
 ## ✅ Submission
 
-Once you’ve completed your task, share your repository link in the GitHub assignment form or post it in the Teams chat (depending on instructions given).
+Once you’ve completed your task, share your repository link in the GitHub assignment form:
+
 
 
 ## 💡 Additional Resources (Optional)
@@ -42,3 +50,4 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 If you’re interested in exploring more about developer tools and workflows, here are some extra materials you can check out at your own pace:
 - [Git Basics - Official Git Tutorial](https://git-scm.com/docs/gittutorial)
 - [VS Code Get Started - Offical VS Code Tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [Mamdouh Git Course - Git CLI](https://www.youtube.com/watch?v=qCp9QpVeJPE)
