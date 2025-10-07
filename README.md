@@ -8,9 +8,8 @@ In this lecture, we explored how to set up your coding environment using VS Code
 You can rewatch the full session here:
 🔗 [Watch the recording](https://drive.google.com/file/d/1uHNkAmP1hn1Xhwky9uwhgUMFRyLcpO2R/view?usp=sharing)
 
-## Lecture Slides:
-
 The slides used in the lecture:
+[Slides](https://github.com/Turk8i/Programming-Club-Dev-Tools-Intro/blob/main/Dev%20Tools%20Intro.pdf)
 
 
 ## 📚 Self-Learning Resources
@@ -42,6 +41,7 @@ Make sure your repo is public so we can view it.
 ## ✅ Submission
 
 Once you’ve completed your task, share your repository link in the GitHub assignment form:
+[Submission Form](https://forms.cloud.microsoft/r/csPkD6f8s8)
 
 
 
